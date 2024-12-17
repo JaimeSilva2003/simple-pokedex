@@ -11,6 +11,6 @@ HOW TO RUN:
 - then open the link that is provided, eg.: "http://localhost:5173"
 
 Used multiple forums and these videos for my reaserch and as a basis:
-https://youtu.be/hn80mWvP-9g - eact tutorial for beginners ⚛️
-https://youtu.be/-uHy7ICKvZA?si=WfoGhBX-bf8VrxUc - Fetch an API using AXIOS (Vite/React/Typescript)
-https://youtu.be/ZRFwuGpiLl4 - How To Make API Call In React using useEffect() Hook With Fetch API and async / await
+- https://youtu.be/hn80mWvP-9g - eact tutorial for beginners ⚛️
+- https://youtu.be/-uHy7ICKvZA?si=WfoGhBX-bf8VrxUc - Fetch an API using AXIOS (Vite/React/Typescript)
+- https://youtu.be/ZRFwuGpiLl4 - How To Make API Call In React using useEffect() Hook With Fetch API and async / await
